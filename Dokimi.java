@@ -5,6 +5,7 @@ public class Dokimi
 	{
 	}
 
-	public static void func() {
+	public static void func() 
+	{
 	}
 }
