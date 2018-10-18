@@ -6,6 +6,7 @@ public class Dokimi
 	}
 
 	public static void func() 
+
 	{
 	}
 }
